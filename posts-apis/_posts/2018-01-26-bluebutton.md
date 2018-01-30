@@ -19,10 +19,10 @@ ctas:
     link: https://cmsgov.github.io/bluebutton-developer-help/
   -
     title: Sign up for the Developer Preview
-    link: https://www.usds.gov
+    link: https://sandbox.bluebutton.cms.gov/v1/accounts/request-invite
   -
     title: Register an application
-    link: https://www.usds.gov
+    link: https://sandbox.bluebutton.cms.gov/v1/accounts/mfa/login
 
 ---
 
